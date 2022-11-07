@@ -5,6 +5,18 @@
     <link>https://example.com/post/</link>
     <description>Recent content in Tech Posts on Anna Godwin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is my PDF really a PDF? Do I Need OCR?</title>
+      <link>https://example.com/post/pdf_really_pdf/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/pdf_really_pdf/</guid>
+      
+        <description>A quick way to check if your file is a scanned image saved as a PDF.</description>
+      
+    </item>
+    
   </channel>
 </rss>
