@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Anna Godwin</title>
-    <link>https://example.com/tags/index/</link>
+    <link>https://annagodwin.com/tags/index/</link>
     <description>Recent content in index on Anna Godwin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://annagodwin.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech Posts</title>
-      <link>https://example.com/post/</link>
+      <link>https://annagodwin.com/post/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/</guid>
+      <guid>https://annagodwin.com/post/</guid>
       
         <description></description>
       

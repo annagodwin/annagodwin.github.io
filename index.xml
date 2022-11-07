@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anna Godwin</title>
-    <link>https://example.com/</link>
+    <link>https://annagodwin.com/</link>
     <description>Recent content on Anna Godwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://annagodwin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is my PDF really a PDF - do I need OCR?</title>
-      <link>https://example.com/post/pdf_really_pdf/</link>
+      <link>https://annagodwin.com/post/pdf_really_pdf/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/pdf_really_pdf/</guid>
+      <guid>https://annagodwin.com/post/pdf_really_pdf/</guid>
       
         <description>A quick way to check if your file is a scanned image saved as a PDF.</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://annagodwin.com/about/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://annagodwin.com/about/</guid>
       
         <description>About Anna Godwin</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Small Metals</title>
-      <link>https://example.com/small_metals/</link>
+      <link>https://annagodwin.com/small_metals/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/small_metals/</guid>
+      <guid>https://annagodwin.com/small_metals/</guid>
       
         <description>Small metals work</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title></title>
-      <link>https://example.com/contact/</link>
+      <link>https://annagodwin.com/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://annagodwin.com/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title></title>
-      <link>https://example.com/imprint/</link>
+      <link>https://annagodwin.com/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/imprint/</guid>
+      <guid>https://annagodwin.com/imprint/</guid>
       
         <description>Legal Disclosure </description>
       
